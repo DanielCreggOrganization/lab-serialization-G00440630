@@ -19,6 +19,6 @@
     "workbench.colorCustomizations": {
         "tree.indentGuidesStroke": "#05ef3c"
     },
-    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.colorTheme": "Dark Modern",
     "github.copilot.selectedCompletionModel": "gpt-4o-copilot",
 }
